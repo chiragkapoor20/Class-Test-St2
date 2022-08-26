@@ -1,4 +1,13 @@
 
+/*
+Name - chirag Kapoor
+Roll No-2010990175
+Set-Tst01
+
+*/
+
+
+
 //write a c++ program to print all the repeated no. with frequency in an array in minimum time complexity.
 
 
